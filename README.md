@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Waliyudini
-- 👀 I’m interested in Programming 
+- 👀 I’m a software developer 
 - 🌱 I’m currently learning  R and Java
-- 💞️ I’m looking to collaborate on Web development 
-- 📫 How to reach me ...
+- 💞️ I’m looking for collaboration on Web development 
+- 📫 Whatsapp: +237683490072
 
 <!---
 Waliyudini/Waliyudini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
