@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @Waliyudini
-- 👀 I’m a software developer 
-- 🌱 I’m currently learning  R and Java
-- 💞️ I’m looking for collaboration on Web development 
-- 📫 Whatsapp: +237683490072
+# Hi 👋, I'm Yaya Waliyudini
 
-<!---
-Waliyudini/Waliyudini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Founder of Nexbyt Technology.
+
+Building technology that empowers businesses and develops Africa's next generation of engineers.
+
+## What I'm Building
+
+🚀 NexLab
+Project-based engineering training
+
+💼 Empowa360
+Business productivity platform
+
+📊 NexData
+Data intelligence solutions
+
+🤖 AI Automation
+AI-powered business workflows
+
+## Tech Stack
+
+PHP • Laravel • JavaScript • React • MySQL • Bootstrap • Tailwind CSS • Linux • Docker • Git
+
+## Current Focus
+
+- Scaling NexLab
+- Building Empowa360
+- Open-source developer tools
+- AI for African businesses
+
+## Connect
+
+Website
+LinkedIn
+Email
