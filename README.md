@@ -12,8 +12,7 @@ Project-based engineering training
 💼 Empowa360
 Business productivity platform
 
-📊 NexData
-Data intelligence solutions
+📊 Nexbyt Data intelligence solutions
 
 🤖 AI Automation
 AI-powered business workflows
