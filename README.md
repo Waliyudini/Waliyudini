@@ -10,7 +10,7 @@ Building technology that empowers businesses and develops Africa's next generati
 Project-based engineering training
 
 💼 Empowa360
-Business productivity platform
+Business Operating System
 
 📊 Nexbyt Data intelligence solutions
 
@@ -19,7 +19,7 @@ AI-powered business workflows
 
 ## Tech Stack
 
-PHP • Laravel • JavaScript • React • MySQL • Bootstrap • Tailwind CSS • Linux • Docker • Git
+PHP • Laravel • JavaScript • React • MySQL • Bootstrap • Tailwind CSS • Linux • Docker • Git • Python
 
 ## Current Focus
 
@@ -27,6 +27,7 @@ PHP • Laravel • JavaScript • React • MySQL • Bootstrap • Tailwind CS
 - Building Empowa360
 - Open-source developer tools
 - AI for African businesses
+- Future-proof Engineering
 
 ## Connect
 
